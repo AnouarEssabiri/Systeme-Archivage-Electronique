@@ -35,10 +35,10 @@
         background: #80808024;
     }
 
-    table th,
+    /* table th,
     td {
-        /*border-left:1px solid gray;*/
-    }
+        border-left:1px solid gray;
+    } */
 
     a.custom-menu-list span.icon {
         width: 1em;
